@@ -6,6 +6,7 @@
         "port": 3000,
         //Use 'unauthorized.hbs' template for displaying an error page
         "errorTemplate": true,
+        "localBaseUrl": "https://kvgurochdy.localtunnel.me",
         // alassian-connect-express currently integrates with JugglingDB for persistence
         // to store the host client information (i.e., client key, host public
         // key, etc). When no adapter is specified, it defaults to JugglingDB's
@@ -56,7 +57,7 @@
         //Use 'unauthorized.hbs' template for displaying an error page
         "errorTemplate": true,
         // This is the public URL to your production add-on.
-        "localBaseUrl": "https://your-subdomain.herokuapp.com",
+        "localBaseUrl": "https://dtmfbndrua.localtunnel.me",
         "store": {
             // You won't want to use the memory store in production, or your install
             // registrations will be forgotten any time your app restarts.  Here

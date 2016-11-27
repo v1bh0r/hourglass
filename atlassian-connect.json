@@ -26,7 +26,7 @@
                 "key": "hello-world-page-jira",
                 "location": "system.top.navigation.bar",
                 "name": {
-                    "value": "Hello World"
+                    "value": "Sand Glass"
                 },
                 "url": "/hello-world",
                 "conditions": [{
@@ -37,7 +37,7 @@
                 "key": "hello-world-page-confluence",
                 "location": "system.header/left",
                 "name": {
-                    "value": "Hello World"
+                    "value": "Sand Glass"
                 },
                 "url": "/hello-world",
                 "conditions": [{

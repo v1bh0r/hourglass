@@ -31,6 +31,10 @@ module.exports = function (app, addon) {
     }
   );
 
+  app.get('/installed', function (req, res) {
+    res.status(200);
+  });
+
   // Add any additional route handlers you need for views or REST resources here...
 
 

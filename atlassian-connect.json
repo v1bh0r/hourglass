@@ -1,10 +1,10 @@
 {
-    "key": "my-add-on",
-    "name": "Ping Pong",
-    "description": "My very first add-on",
+    "key": "sand-glass",
+    "name": "SandGlass",
+    "description": "Timesheets for Jira",
     "vendor": {
-        "name": "Angry Nerds",
-        "url": "https://www.atlassian.com/angrynerds"
+        "name": "Vibhor Mahajan",
+        "url": "https://github.com/vibhor86"
     },
     "baseUrl": "{{localBaseUrl}}",
     "links": {
